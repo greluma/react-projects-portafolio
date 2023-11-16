@@ -23,3 +23,5 @@ utils.txt
 *.njsproj
 *.sln
 *.sw?
+
+README.md
