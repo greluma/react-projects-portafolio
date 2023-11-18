@@ -14,4 +14,9 @@ const projects = [
     url: "https://greluma-grocery-bud.netlify.app",
     image: "./assets/grocery.png",
   },
+  {
+    title: "drinks",
+    url: "https://greluma-drinks-master.netlify.app",
+    image: "./assets/drinks.png",
+  },
 ];
